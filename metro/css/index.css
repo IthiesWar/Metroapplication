@@ -1,0 +1,50 @@
+#signup
+{
+    display: block;
+}
+#signin
+{
+    display: none;
+}
+#container
+{
+    display: block;
+}
+#nav
+{
+    display: none;
+}
+#nav-ul
+{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+#home
+{
+    display: none;
+}
+#balancediv
+{
+    display: none;
+}
+#Recharge
+{
+    display: none;
+}
+#tickets
+{
+    display: none;
+}
+#bookings
+{
+    display: none;
+}
+#getquantity
+{
+    display: none;
+}
+#history
+{
+    display: none;
+}
